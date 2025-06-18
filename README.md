@@ -1,2 +1,2 @@
 # abillioncustomers
-The goal of this project is to design a system for information retrieval through REST APIs having a billion customers.
+Design a system for information retrieval using REST APIs having a billion customers.
